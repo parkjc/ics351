@@ -1,1 +1,1 @@
-# ics351
+# ics351 - networking class
